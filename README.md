@@ -72,7 +72,7 @@ Each branch is an orphan branch holding a single installer. Use
 
 ### Windows
 
-1. Create a folder in your own user space, then lone the `windows` branch (PowerShell or Git Bash):
+1. Create a folder in your own user space, then clone the `windows` branch (PowerShell or Git Bash):
    ```powershell
    git clone --single-branch --branch windows --depth 1 https://github.com/Akulababu/qCS_3.0.git
    cd qCS_3.0
