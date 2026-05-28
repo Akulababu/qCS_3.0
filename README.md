@@ -48,7 +48,7 @@ Each branch is an orphan branch holding a single installer. Use
 
 ### Linux
 
-1. Clone the `linux` branch:
+1. Create a folder in your own user space, then clone the mac branch inside that folder:
    ```bash
    git clone --single-branch --branch linux --depth 1 https://github.com/Akulababu/qCS_3.0.git
    cd qCS_3.0
@@ -72,7 +72,7 @@ Each branch is an orphan branch holding a single installer. Use
 
 ### Windows
 
-1. Clone the `windows` branch (PowerShell or Git Bash):
+1. Create a folder in your own user space, then lone the `windows` branch (PowerShell or Git Bash):
    ```powershell
    git clone --single-branch --branch windows --depth 1 https://github.com/Akulababu/qCS_3.0.git
    cd qCS_3.0
