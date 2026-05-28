@@ -20,7 +20,7 @@ Each branch is an orphan branch holding a single installer. Use
 
 ### macOS
 
-1. Clone the `mac` branch:
+1. Create a folder in your own user space, then clone the mac branch inside that folder:
    ```bash
    git clone --single-branch --branch mac --depth 1 https://github.com/Akulababu/qCS_3.0.git
    cd qCS_3.0
